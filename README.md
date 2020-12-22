@@ -1,2 +1,2 @@
 # hello-world
-wtf is a repository? 
+Babys First Repository
